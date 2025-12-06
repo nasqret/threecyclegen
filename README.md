@@ -16,3 +16,6 @@ satisfies H = S_{6+(n+k+m)} or H = A_{6+(n+k+m)}.
 ChatGPT-Pro-5.1 informal sketch
 
 https://chatgpt.com/share/69339179-a46c-8007-bed0-56c25556492a
+
+The informal sketch has been completely formalized in Harmonic Aristotle in about 20 hours, during two mixed runs.
+The code is more than 2000 lines.
