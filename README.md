@@ -12,3 +12,7 @@ g3:=G!(5,6,2,3,c_1,...,c_m);
 H:=sub<G|[g1,g2,g3]>;
 
 satisfies H = S_{6+(n+k+m)} or H = A_{6+(n+k+m)}.
+
+ChatGPT-Pro-5.1 informal sketch
+
+https://chatgpt.com/share/69339179-a46c-8007-bed0-56c25556492a
